@@ -1,5 +1,5 @@
 body{background-color: black;}
 h1{color: beige; font-size: 36px;}
-.frm{color: aliceblue;}
+.frm{color: rgb(255, 255, 255);}
 .banner{height: 300px; }
-.boton{color: rgb(236, 43, 43);border-radius: 30px;}
+.boton{color: rgb(250, 248, 248);border-radius: 30px;background-color: rgb(228, 12, 12);}

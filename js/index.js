@@ -1,6 +1,6 @@
 let boton = document.createElement('button')
-let Cotizador = document.querySelector('#Cotizador')
+let frm = document.querySelector('.frm')
 boton.setAttribute('class','boton')
 boton.textContent="calcular"
 
-Cotizador.appendChild(boton)
+frm.appendChild(boton)
